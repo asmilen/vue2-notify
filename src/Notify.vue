@@ -18,6 +18,11 @@
   </div>
 </template>
 <style lang="sass" scoped>
+  .notify-top-center
+    postition: fixed
+    top: 30px
+    z-index: 9999
+    left: 50%
   .notify-top-full
     position: fixed
     top: 5px
